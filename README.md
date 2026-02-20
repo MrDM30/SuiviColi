@@ -57,7 +57,7 @@ Les maquettes de l'application ont été conçues pour être responsive (adapté
 
 Un document détaillé comprenant le cahier des charges, le budget, le processus de conception et le manuel d'utilisation est disponible :
 
-*   **Lien vers la documentation :** [Insérer le lien Google Docs ici]
+*   **Lien vers la documentation :** [[Insérer le lien Google Docs ici](https://docs.google.com/document/d/19LOSxIvkpWthn69fUPwg6T0s-NLm9rNWAE5cXyxXRP4/edit?usp=sharing)]
 
 
 ## Auteur
